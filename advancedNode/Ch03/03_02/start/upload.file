@@ -1,0 +1,8 @@
+------WebKitFormBoundary4lOhah0EC9VHYnh8
+Content-Disposition: form-data; name="upload-file"; filename="pgadmin.log"
+Content-Type: application/octet-stream
+
+2018-08-07 10:53:00 ERROR  : Error connecting to the server: FATAL:  password authentication failed for user "postgres"
+
+
+------WebKitFormBoundary4lOhah0EC9VHYnh8--
